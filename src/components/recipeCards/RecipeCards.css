@@ -1,5 +1,6 @@
 .recipeWrapper {
   transform: translate(0px, 50px);
+  position: absolute;
 }
 
 .recipeCard {
@@ -29,6 +30,7 @@
 
 .recipeCard .recipeInfo {
   color: #868585;
+  fill: #868585;
   display: flex;
   align-items: center;
   margin: 5px;
