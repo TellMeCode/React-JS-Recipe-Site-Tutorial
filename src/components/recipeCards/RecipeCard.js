@@ -1,16 +1,17 @@
 import React from "react";
 import { Time, Group } from "../../assets";
 
-let RecipeCard = () => {
+let RecipeCard = (props) => {
+  let { recipe } = props;
   return (
     <div className="recipeCard">
-      <img className="recipeImage"></img>
-      <span className="recipeName">Title</span>
+      <img src={recipe.image} alt={recipe.title} className="recipeImage"></img>
+      <span className="recipeName">{recipe.title}</span>
       <div className="recipeInfo">
         <Time />
-        <span>10 mins</span>
+        <span>{recipe.readyInMinutes} mins</span>
         <Group />
-        <span>4</span>
+        <span>{recipe.servings}</span>
       </div>
     </div>
   );
