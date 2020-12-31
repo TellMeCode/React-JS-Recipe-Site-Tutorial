@@ -14,7 +14,7 @@ let RecipeCardWrapper = (props) => {
 
   let fetchRecipe = async () => {
     let response = await fetch(
-      `https://api.spoonacular.com/recipes/complexSearch?apiKey=${API_KEY}&cuisine=${props.selectedRecipe}&addRecipeInformation=true&number=1`
+      `https://api.spoonacular.com/recipes/complexSearch?apiKey=${API_KEY}&cuisine=${props.selectedRecipe}&addRecipeInformation=true&number=10`
     );
     let recipeData = await response.json();
     setRecipes(recipeData.results);

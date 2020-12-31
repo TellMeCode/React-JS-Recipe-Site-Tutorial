@@ -1,0 +1,606 @@
+{
+  "vegetarian": true,
+  "vegan": false,
+  "glutenFree": true,
+  "dairyFree": false,
+  "veryHealthy": true,
+  "cheap": false,
+  "veryPopular": true,
+  "sustainable": false,
+  "weightWatcherSmartPoints": 36,
+  "gaps": "no",
+  "lowFodmap": false,
+  "cookingMinutes": 15,
+  "aggregateLikes": 9687,
+  "spoonacularScore": 100,
+  "healthScore": 86,
+  "creditsText": "Two Peas and Their Pod",
+  "sourceName": "Two Peas and Their Pod",
+  "pricePerServing": 473.99,
+  "extendedIngredients": [
+    {
+      "id": 2069,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "balsamic-vinegar.jpg",
+      "consistency": "liquid",
+      "name": "balsamic vinegar",
+      "original": "1 tablespoon balsamic vinegar",
+      "originalString": "1 tablespoon balsamic vinegar",
+      "originalName": "balsamic vinegar",
+      "amount": 1,
+      "unit": "tablespoon",
+      "meta": [],
+      "metaInformation": [],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "Tbsp",
+          "unitLong": "Tbsp"
+        }
+      }
+    },
+    {
+      "id": 11233,
+      "aisle": "Produce",
+      "image": "kale.jpg",
+      "consistency": "solid",
+      "name": "kale",
+      "original": "1 1/2 cups chopped kale",
+      "originalString": "1 1/2 cups chopped kale",
+      "originalName": "chopped kale",
+      "amount": 1.5,
+      "unit": "cups",
+      "meta": [
+        "chopped"
+      ],
+      "metaInformation": [
+        "chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 354.882,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 1026,
+      "aisle": "Cheese",
+      "image": "mozzarella.png",
+      "consistency": "solid",
+      "name": "mozzarella cheese",
+      "original": "1 1/2 cups mozzarella cheese",
+      "originalString": "1 1/2 cups mozzarella cheese",
+      "originalName": "mozzarella cheese",
+      "amount": 1.5,
+      "unit": "cups",
+      "meta": [],
+      "metaInformation": [],
+      "measures": {
+        "us": {
+          "amount": 1.5,
+          "unitShort": "cups",
+          "unitLong": "cups"
+        },
+        "metric": {
+          "amount": 354.882,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 4053,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "olive-oil.jpg",
+      "consistency": "liquid",
+      "name": "olive oil",
+      "original": "1 1/2 tablespoon olive oil, divided",
+      "originalString": "1 1/2 tablespoon olive oil, divided",
+      "originalName": "olive oil, divided",
+      "amount": 1.5,
+      "unit": "tablespoon",
+      "meta": [
+        "divided"
+      ],
+      "metaInformation": [
+        "divided"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1.5,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        },
+        "metric": {
+          "amount": 1.5,
+          "unitShort": "Tbsps",
+          "unitLong": "Tbsps"
+        }
+      }
+    },
+    {
+      "id": 10011282,
+      "aisle": "Produce",
+      "image": "red-onion.png",
+      "consistency": "solid",
+      "name": "red onion",
+      "original": "1/2 red onion, sliced",
+      "originalString": "1/2 red onion, sliced",
+      "originalName": "red onion, sliced",
+      "amount": 0.5,
+      "unit": "",
+      "meta": [
+        "red",
+        "sliced"
+      ],
+      "metaInformation": [
+        "red",
+        "sliced"
+      ],
+      "measures": {
+        "us": {
+          "amount": 0.5,
+          "unitShort": "",
+          "unitLong": ""
+        },
+        "metric": {
+          "amount": 0.5,
+          "unitShort": "",
+          "unitLong": ""
+        }
+      }
+    },
+    {
+      "id": 2036,
+      "aisle": "Produce;Spices and Seasonings",
+      "image": "rosemary.jpg",
+      "consistency": "solid",
+      "name": "rosemary",
+      "original": "1 teaspoon, freshly chopped rosemary",
+      "originalString": "1 teaspoon, freshly chopped rosemary",
+      "originalName": "freshly chopped rosemary",
+      "amount": 1,
+      "unit": "teaspoon",
+      "meta": [
+        "chopped"
+      ],
+      "metaInformation": [
+        "chopped"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "tsp",
+          "unitLong": "teaspoon"
+        }
+      }
+    },
+    {
+      "id": 1102047,
+      "aisle": "Spices and Seasonings",
+      "image": "salt-and-pepper.jpg",
+      "consistency": "solid",
+      "name": "salt and pepper",
+      "original": "Salt and pepper, for seasoning potato slices and onion",
+      "originalString": "Salt and pepper, for seasoning potato slices and onion",
+      "originalName": "Salt and pepper, for seasoning potato slices and onion",
+      "amount": 1,
+      "unit": "serving",
+      "meta": [
+        "for seasoning potato slices and onion"
+      ],
+      "metaInformation": [
+        "for seasoning potato slices and onion"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "serving",
+          "unitLong": "serving"
+        }
+      }
+    },
+    {
+      "id": 11507,
+      "aisle": "Produce",
+      "image": "sweet-potato.png",
+      "consistency": "solid",
+      "name": "sweet potato",
+      "original": "1 large sweet potato, thinly sliced, about 1/4 inch thick",
+      "originalString": "1 large sweet potato, thinly sliced, about 1/4 inch thick",
+      "originalName": "sweet potato, thinly sliced, about 1/4 inch thick",
+      "amount": 1,
+      "unit": "large",
+      "meta": [
+        "thinly sliced"
+      ],
+      "metaInformation": [
+        "thinly sliced"
+      ],
+      "measures": {
+        "us": {
+          "amount": 1,
+          "unitShort": "large",
+          "unitLong": "large"
+        },
+        "metric": {
+          "amount": 1,
+          "unitShort": "large",
+          "unitLong": "large"
+        }
+      }
+    }
+  ],
+  "id": 548450,
+  "title": "Sweet Potato Kale Pizza with Rosemary & Red Onion",
+  "readyInMinutes": 15,
+  "servings": 1,
+  "sourceUrl": "http://www.twopeasandtheirpod.com/sweet-potato-kale-pizza-with-rosemary-red-onion/",
+  "image": "https://spoonacular.com/recipeImages/548450-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "Sweet Potato Kale Pizza with Rosemary & Red Onion might be just the main course you are searching for. One serving contains <b>887 calories</b>, <b>44g of protein</b>, and <b>60g of fat</b>. This recipe serves 1 and costs $4.04 per serving. If you have olive oil, sweet potato, freshly rosemary, and a few other ingredients on hand, you can make it. To use up the balsamic vinegar you could follow this main course with the <a href=\"https://spoonacular.com/recipes/skinny-strawberry-ice-cream-667869\">Skinny Strawberry Ice Cream</a> as a dessert. 9687 people were impressed by this recipe. It is a good option if you're following a <b>gluten free, primal, and vegetarian</b> diet. This recipe is typical of Mediterranean cuisine. All things considered, we decided this recipe <b>deserves a spoonacular score of 100%</b>. This score is tremendous. Try <a href=\"https://spoonacular.com/recipes/sweet-potato-pizza-with-onion-and-rosemary-39861\">Sweet Potato Pizza with Onion and Rosemary</a>, <a href=\"https://spoonacular.com/recipes/easy-pan-pizza-with-potato-onion-and-rosemary-vegan-196504\">Easy Pan Pizza With Potato, Onion, and Rosemary (Vegan)</a>, and <a href=\"https://spoonacular.com/recipes/kale-and-sweet-potato-pizza-580147\">Kale and Sweet Potato Pizza</a> for similar recipes.",
+  "cuisines": [
+    "Mediterranean",
+    "Italian",
+    "European"
+  ],
+  "dishTypes": [
+    "lunch",
+    "main course",
+    "main dish",
+    "dinner"
+  ],
+  "diets": [
+    "gluten free",
+    "lacto ovo vegetarian",
+    "primal"
+  ],
+  "occasions": [],
+  "winePairing": {
+    "pairedWines": [
+      "verdicchio",
+      "trebbiano",
+      "chianti"
+    ],
+    "pairingText": "Verdicchio, Trebbiano, and Chianti are my top picks for Italian. Italians know food and they know wine. Trebbiano and Verdicchio are Italian white wines that pair well with fish and white meat, while Chianti is a great Italian red for heavier, bolder dishes. The Fattoria Viticcio Chianti Classico Riserva with a 4.9 out of 5 star rating seems like a good match. It costs about 26 dollars per bottle.",
+    "productMatches": [
+      {
+        "id": 439410,
+        "title": "Fattoria Viticcio Chianti Classico Riserva",
+        "description": "A complex nose of sour cherry, ripe blackberry, cassis, and warm spices, a smooth and round palate, and a long finish. Blend: 95% Sangiovese and 5% Merlot.",
+        "price": "$25.98",
+        "imageUrl": "https://spoonacular.com/productImages/439410-312x231.jpg",
+        "averageRating": 0.9800000000000001,
+        "ratingCount": 7,
+        "score": 0.9345454545454547,
+        "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Ffattoria-viticcio-chianti-classico-riserva-2012%2F162702"
+      }
+    ]
+  },
+  "instructions": "1. Preheat the oven to 400 degrees F. Place the sweet potato slices and red onion slices in a bow and toss with 1/2 tablespoon of the olive oil. Season with salt and pepper. Place on a large baking sheet and bake for about 20 minutes, or until the sweet potatoes are soft and tender. Make sure you turn them once during the 20 minutes. Remove from oven and let cool while you prepare the pizza dough. 2. Turn the oven to 500 degrees F or as high as your oven will go. If you have a pizza stone, place the pizza stone in the oven to get hot. On a lightly floured surface, roll out the pizza dough, using a rolling pin. Roll it out to about 3/8 of an inch. Place the pizza dough on a pizza peel or pan that has been generously coated with corn meal. Lightly brush the dough with the remaining 1 tablespoon of olive oil. In a small bowl, toss the kale with balsamic vinegar. Top the pizza dough with mozzarella cheese, sweet potato slices, kale, red onion slices, and fresh rosemary. 3. Place the pizza in the oven-directly on the pizza stone, if using one, or on the oven rack. Bake for 10-15 minutes or until pizza crust is golden and cheese is melted. Remove from oven and let cool for a few minutes before slicing. Slice and serve warm.",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Preheat the oven to 400 degrees F.",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg",
+              "temperature": {
+                "number": 400,
+                "unit": "Fahrenheit"
+              }
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "step": "Place the sweet potato slices and red onion slices in a bow and toss with 1/2 tablespoon of the olive oil. Season with salt and pepper.",
+          "ingredients": [
+            {
+              "id": 1102047,
+              "name": "salt and pepper",
+              "localizedName": "salt and pepper",
+              "image": "salt-and-pepper.jpg"
+            },
+            {
+              "id": 11507,
+              "name": "sweet potato",
+              "localizedName": "sweet potato",
+              "image": "sweet-potato.png"
+            },
+            {
+              "id": 4053,
+              "name": "olive oil",
+              "localizedName": "olive oil",
+              "image": "olive-oil.jpg"
+            },
+            {
+              "id": 10011282,
+              "name": "red onion",
+              "localizedName": "red onion",
+              "image": "red-onion.png"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 3,
+          "step": "Place on a large baking sheet and bake for about 20 minutes, or until the sweet potatoes are soft and tender. Make sure you turn them once during the 20 minutes.",
+          "ingredients": [
+            {
+              "id": 11507,
+              "name": "sweet potato",
+              "localizedName": "sweet potato",
+              "image": "sweet-potato.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404727,
+              "name": "baking sheet",
+              "localizedName": "baking sheet",
+              "image": "baking-sheet.jpg"
+            },
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            }
+          ],
+          "length": {
+            "number": 40,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 4,
+          "step": "Remove from oven and let cool while you prepare the pizza dough.",
+          "ingredients": [
+            {
+              "id": 93610,
+              "name": "pizza dough",
+              "localizedName": "pizza dough",
+              "image": "pizza-dough.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "step": "Turn the oven to 500 degrees F or as high as your oven will go. If you have a pizza stone, place the pizza stone in the oven to get hot. On a lightly floured surface, roll out the pizza dough, using a rolling pin.",
+          "ingredients": [
+            {
+              "id": 93610,
+              "name": "pizza dough",
+              "localizedName": "pizza dough",
+              "image": "pizza-dough.jpg"
+            },
+            {
+              "id": 0,
+              "name": "roll",
+              "localizedName": "roll",
+              "image": "dinner-yeast-rolls.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 406907,
+              "name": "pizza stone",
+              "localizedName": "pizza stone",
+              "image": "pizza-stone.jpg"
+            },
+            {
+              "id": 404746,
+              "name": "rolling pin",
+              "localizedName": "rolling pin",
+              "image": "rolling-pin.jpg"
+            },
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg",
+              "temperature": {
+                "number": 500,
+                "unit": "Fahrenheit"
+              }
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "step": "Roll it out to about 3/8 of an inch.",
+          "ingredients": [
+            {
+              "id": 0,
+              "name": "roll",
+              "localizedName": "roll",
+              "image": "dinner-yeast-rolls.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 7,
+          "step": "Place the pizza dough on a pizza peel or pan that has been generously coated with corn meal. Lightly brush the dough with the remaining 1 tablespoon of olive oil. In a small bowl, toss the kale with balsamic vinegar. Top the pizza dough with mozzarella cheese, sweet potato slices, kale, red onion slices, and fresh rosemary.",
+          "ingredients": [
+            {
+              "id": 1026,
+              "name": "mozzarella",
+              "localizedName": "mozzarella",
+              "image": "mozzarella.png"
+            },
+            {
+              "id": 2069,
+              "name": "balsamic vinegar",
+              "localizedName": "balsamic vinegar",
+              "image": "balsamic-vinegar.jpg"
+            },
+            {
+              "id": 2063,
+              "name": "fresh rosemary",
+              "localizedName": "fresh rosemary",
+              "image": "rosemary.jpg"
+            },
+            {
+              "id": 11507,
+              "name": "sweet potato",
+              "localizedName": "sweet potato",
+              "image": "sweet-potato.png"
+            },
+            {
+              "id": 93610,
+              "name": "pizza dough",
+              "localizedName": "pizza dough",
+              "image": "pizza-dough.jpg"
+            },
+            {
+              "id": 35137,
+              "name": "cornmeal",
+              "localizedName": "cornmeal",
+              "image": "cornmeal.png"
+            },
+            {
+              "id": 4053,
+              "name": "olive oil",
+              "localizedName": "olive oil",
+              "image": "olive-oil.jpg"
+            },
+            {
+              "id": 10011282,
+              "name": "red onion",
+              "localizedName": "red onion",
+              "image": "red-onion.png"
+            },
+            {
+              "id": 0,
+              "name": "dough",
+              "localizedName": "dough",
+              "image": "pizza-dough"
+            },
+            {
+              "id": 11233,
+              "name": "kale",
+              "localizedName": "kale",
+              "image": "kale.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404783,
+              "name": "bowl",
+              "localizedName": "bowl",
+              "image": "bowl.jpg"
+            },
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "step": "Place the pizza in the oven-directly on the pizza stone, if using one, or on the oven rack.",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 406907,
+              "name": "pizza stone",
+              "localizedName": "pizza stone",
+              "image": "pizza-stone.jpg"
+            },
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "step": "Bake for 10-15 minutes or until pizza crust is golden and cheese is melted.",
+          "ingredients": [
+            {
+              "id": 93770,
+              "name": "prepared pizza crust",
+              "localizedName": "prepared pizza crust",
+              "image": "pizza-dough.jpg"
+            },
+            {
+              "id": 1041009,
+              "name": "cheese",
+              "localizedName": "cheese",
+              "image": "cheddar-cheese.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            }
+          ],
+          "length": {
+            "number": 15,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 10,
+          "step": "Remove from oven and let cool for a few minutes before slicing. Slice and serve warm.",
+          "ingredients": [],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "oven.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "originalId": null
+}
