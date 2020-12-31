@@ -3,7 +3,7 @@ import RecipeCard from "./RecipeCard";
 import "./RecipeCards.css";
 import {useLocation} from 'react-router-dom';
 
-const API_KEY = "674f13ea67e24742857e3354241e177c";
+const API_KEY = "";
 
 let RecipeCardWrapper = (props) => {
   let urlState = useLocation().state;

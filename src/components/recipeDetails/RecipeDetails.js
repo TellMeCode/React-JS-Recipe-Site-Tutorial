@@ -3,7 +3,7 @@ import './RecipeDetails.css';
 import {Link,useParams } from 'react-router-dom';
 import SampleData from './SampleDetails.json'
 import Ingredients from './Ingredients';
-const API_KEY = "674f13ea67e24742857e3354241e177c";
+const API_KEY = "";
 function RecipeDetails(props){
     let {recipeId} = useParams();
     const [details,setDetails] = useState({})
