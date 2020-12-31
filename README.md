@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Before Running
+
+This sample tutorial use Spoonacular API to get the recipe details which requires an API key.
+The key can be obtained from https://spoonacular.com/food-api after signing in.
+
+Once got the key, need to replace it in below files. (hardcoded for the sake of tutorial)
+1. RecipeCardWrapper.js
+2.RecipeDetails.js
+
 ## Available Scripts
 
 In the project directory, you can run:
